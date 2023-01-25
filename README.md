@@ -49,4 +49,5 @@ winrm
 remote_user
 
 `ansible-doc -t connection ssh | grep user`
+
 ![img.png](img.png)
